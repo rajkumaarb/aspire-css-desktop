@@ -1,0 +1,311 @@
+.container-height {
+  height: 100vh;
+}
+
+.left {
+  background-color: #0C365A;
+}
+
+.right {
+  background-color: #FFFFFF;
+}
+
+.company {
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.company img {
+  margin-bottom: 10px;
+}
+
+.tag-line {
+  color: #FFF;
+  font-size: 12px;
+  margin-bottom: 50px;
+  opacity: 30%;
+}
+
+.list-group-item {
+  background-color: transparent;
+  color: #FFF;
+  border: none;
+  padding-top: 2rem;
+  font-size: 14px;
+  padding-left: 0;
+}
+
+.list-group-item img {
+  margin-bottom: 0;
+}
+
+.img-text-right {
+  padding-left: 10px;
+}
+
+.fill-color {
+  color: #01D167;
+}
+
+.right p {
+  font-size: 12px;
+}
+
+.right .rect {
+  background-color: #01D167;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.right .row strong {
+  font-size: 18px;
+}
+
+.btn-cust {
+  background-color: #325BAF;
+}
+
+.right-side {
+  text-align: right;
+}
+
+.right-side .btn-cust {
+  color: #FFFFFF;
+}
+
+.right-side .btn-cust img {
+  margin-bottom: 0;
+}
+
+.tab-items {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.nav-tabs {
+  border: none;
+}
+
+.nav-tabs > li:first-child {
+  border-bottom: 2px solid #23CEFD;
+  font-weight: bolder;
+}
+
+.nav-tabs > li:last-child {
+  opacity: 30%;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.right .card {
+  margin-top: 10px;
+  padding: 15px;
+  box-shadow: 1px 1px 5px 0px #00000014;
+  border: 1px solid #FFF
+}
+
+.right .card .card-num {
+  text-align: right;
+  padding-right: 0px;
+}
+
+.right .card .card-num img {
+  margin-bottom: 0px;
+}
+
+.right .card .card-num .eye-text {
+  color: #01D167;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.right .card .card-image {
+  background-color: #01D167;
+  border-radius: 5px;
+  border: 1px solid #01D167;
+  height: 210px;
+  color: #FFFFFF;
+  margin-top: 0px;
+}
+
+.right .card .card-image img {
+  width: 100px;
+  height: 20px;
+  text-align: right;
+}
+
+.card-right-img {
+  text-align: right;
+}
+
+.name {
+  font-weight: bolder;
+  font-size: 20px;
+  padding-top: 15px;
+}
+
+.masked-card-num {
+  font-size: 14px;
+  padding-top: 10px;
+  letter-spacing: 12px;
+  font-weight: bolder;
+}
+
+.expiry-cvv {
+  padding-top: 15px;
+  font-size: 12px;
+}
+
+.dot-style {
+  letter-spacing: 10px;
+}
+
+.expiry-padding {
+  padding-right: 30px;
+}
+
+.cvv-style {
+  letter-spacing: 3px;
+  font-size: 20px;
+  padding-top: 5px;
+  position: relative;
+  top: 5px;
+  left: 5px;
+}
+
+.text-center {
+  text-align: center;
+  letter-spacing: 10px;
+  color: #01D167;
+  font-size: 20px;
+}
+
+.card-options {
+  background-color: #EDF3FF;
+  box-shadow: 1px 1px 5px 0px #FFFFFF !important;
+  border-radius: 10px;
+  height: 90px;
+}
+
+.card-disp-options {
+  display: inline-block;
+  width: 70px;
+  text-align: center;
+  font-size: 10px;
+  color: #0C365A;
+}
+
+.card-color {
+  background-color: #EDF3FF;
+  color: #0C365A;
+  box-shadow: 1px 1px 5px 0px #FFFFFF !important;
+  border-radius: 5px;
+}
+
+.inline-block-item {
+  display: inline-block;
+}
+
+.right .list-group .list-group-item {
+  color: #000;
+  padding-top: 10px;
+  border-top: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  padding: 10px 5px;
+}
+
+.right .list-group .list-group-item:first-child {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-top: 0px;
+}
+
+.right .list-group .list-group-item:last-child {
+  border-bottom: 1px solid lightgray;
+  background-color: #00D6B51A;
+}
+
+.full-green{
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.full-green .row {
+  padding: 5px 0px;
+  color: #01D167;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: #EDF3FF;
+  height: 50px;
+  width: 50px;
+  padding-left: 20px;
+}
+
+.circle > img {
+  position: relative;
+  top: 12px;
+  right: 3px;
+}
+
+.flights {
+  background-color: #00D6B51A;
+}
+
+.megaphone {
+  background-color: #F251951A;
+}
+
+.amount-fields {
+  font-size: 12px;
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+.right .list-group .list-group-item:first-child .amount-fields {
+  color: #01D167;
+}
+
+.right .list-group .list-group-item .col-6 {
+  font-size: 12px;
+}
+
+.right .list-group .list-group-item .col-6 .item-desc {
+  font-weight: bold;
+}
+
+.right .list-group .list-group-item .col-6 .item-date {
+  color: #AAAAAA;
+}
+
+.right .business {
+  background-color: #325BAF;
+  border-radius: 50px;
+  width: 25px;
+  height: 20px;
+}
+
+.right .business img {
+  position: relative;
+  right: 4px;
+}
+
+.pl10 {
+  padding-left: 4px;
+  padding-top: 2px;
+  color: #325BAF;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.pl5 {
+  padding-left: 15px;
+}
